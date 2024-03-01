@@ -1,6 +1,6 @@
 # WinWinTogether
 
-<center><b>一个人可以走得很快，但一群人可以走得更远。</b></center>
+**一个人可以走得很快，但一群人可以走得更远。**  
 
 这个库将暂时用作我们的学习小组WinWinTogether的线上研讨班。
 
